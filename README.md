@@ -1,4 +1,3 @@
 # MsgRobot
-自动发送告警的机器人
 
-通过企业微信API对聊天群/用户直接发送消息
+A robot to automatically interact with Wechat
